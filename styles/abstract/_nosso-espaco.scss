@@ -1,0 +1,6 @@
+@use '../abstract/variaveis';
+@use '../abstract/mixins';
+
+#nosso-espaco{
+    @include mixins.margem-central(80%);
+}
