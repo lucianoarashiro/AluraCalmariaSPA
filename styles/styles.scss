@@ -1,3 +1,7 @@
-@use './abstract/body';
-@use './abstract/header';
-@use './abstract/nosso-espaco';
+@use './components/body';
+@use './components/header';
+@use './components/nosso-espaco';
+@use './components/services';
+@use './components/discounts';
+@use './components/contacts';
+@use './components/footer';
